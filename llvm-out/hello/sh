@@ -1,0 +1,6 @@
+llvm-as-10 ./4.ll
+llc-10 ./4.bc
+ as 4.s -o 4
+ gcc 4
+ mv /home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/a.out /home/h3/UNIT/AngrCTF_FITM/test/3
+

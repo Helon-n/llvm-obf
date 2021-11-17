@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libhello.so CMakeFiles/hello.dir/hello.cpp.o 

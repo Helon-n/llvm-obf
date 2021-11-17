@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/build",
+  "command": "/bin/clang++-10  -Dhello_EXPORTS -I/opt/include  -g -fPIC   -fno-rtti -o CMakeFiles/hello.dir/hello.cpp.o -c /home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/hello.cpp",
+  "file": "/home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/hello.cpp"
+}
+]

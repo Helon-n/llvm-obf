@@ -1,0 +1,3 @@
+/home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/build/CMakeFiles/rebuild_cache.dir
+/home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/build/CMakeFiles/edit_cache.dir
+/home/h3/UNIT/llvm-code/llvm-project-release-10.x/hello/build/CMakeFiles/hello.dir
